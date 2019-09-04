@@ -1,0 +1,2 @@
+# spelhistoria
+Sajt om datorspelshistoria
